@@ -1,0 +1,8 @@
+@media only screen and (min-width: 600px) {
+.author-bio{
+  padding: 20px 20px;
+}
+}
+.author-bio{
+  padding: 20px 5px;
+}

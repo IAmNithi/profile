@@ -1,0 +1,14 @@
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.left-nav{
+  min-height: 100vh;
+  background-color: #2B435D;
+  color: #ffffff;
+}
+.right-nav{
+  min-height: 100vh;
+  background-color: #ffffff;
+  font-family: "Proxima Nova", sans-serif;
+}

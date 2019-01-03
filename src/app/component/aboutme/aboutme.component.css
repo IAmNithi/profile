@@ -1,0 +1,15 @@
+.details-card{
+  width: 15rem;
+  margin: 0 auto;
+}
+.table td{
+  padding: 0.40rem;
+  border: none;
+}
+.icon-color{
+  color: #F57842;
+}
+.letter-spacing{
+  letter-spacing: 5px;
+  font-weight: 700;
+}

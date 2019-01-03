@@ -1,0 +1,26 @@
+
+@media only screen and (min-width: 600px) {
+  .author-card {
+    border-right: 15px solid #3D536E;
+    border-left: 15px solid #3D536E;
+  }
+  }
+  .author-card {
+    padding: 10px 20px;
+  }
+  .author-title{
+    margin-top: 2vh;
+    padding: 5px 20px;
+  }
+  .author-title > p{
+    font-size: 1.25rem;
+      font-weight: 700;
+      color: #41536C;
+  }
+  .author-name > p {
+    font-size: 2rem;
+    margin: 0;
+    letter-spacing: 7px;
+    font-style: italic;
+    color: #2c3f52;
+  }

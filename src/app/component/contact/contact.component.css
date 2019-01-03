@@ -1,0 +1,16 @@
+
+.icon-color{
+  color: #F57842;
+}
+.details-card{
+  width: 15rem;
+  margin: 0 auto;
+}
+.table td{
+  padding: 0.40rem;
+  border: none;
+}
+a{
+  text-decoration: none;
+  color: #ffffff;
+}

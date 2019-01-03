@@ -1,0 +1,34 @@
+  .bio{
+    color: #2B435D;
+  }
+  @media only screen and (min-width: 600px) {
+  .bio-title{
+    max-width: 15vw;
+  }
+  }
+  .bio-title{
+    background-color: #eeeeee;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 600;
+    color: #7e868e;
+    letter-spacing: 2px;
+    border-left: 7px solid #F57842;
+  }
+  .color-dull{
+    color: #848488;
+    font-weight: 600;
+  }
+  .table td{
+    padding: 0.40rem;
+    border: none;
+  }
+  .skill-set{
+    padding-bottom: 10px;
+  }
+  .bg-custom{
+    background-color: #2B435D;
+  }
+  .progress{
+    border-radius: 0;
+  }

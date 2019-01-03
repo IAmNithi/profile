@@ -1,0 +1,8 @@
+.profile-card{
+  text-align: center;
+  margin-top: 2vh;
+  }
+  .profile-image{
+    height: 15rem;
+    border: 5px solid #ffffff;
+  }
